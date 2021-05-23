@@ -1,0 +1,17 @@
+name for bot = TeleBotJS
+username = wkTeleBot
+
+token to access HTTP API = 1756117310:AAGzkuvG-t3CJZsuMYuOMwrRN13xdH9Yw2M
+
+use telegraf
+
+--- how to ---
+1) import telegraf
+2) initialize and launch bot
+3) dotenv, require dotenv.config() and put token in .env
+4) try launch 
+5) create gitignore and remove everything
+6) git init
+7) git add . status
+8) set upstream
+9) commit n push

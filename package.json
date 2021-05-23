@@ -1,0 +1,14 @@
+{
+  "name": "question",
+  "version": "1.0",
+  "description": "description",
+  "main": "index.js",
+  "repository": "-",
+  "author": "wk",
+  "license": "-",
+  "private": null,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.3.0"
+  }
+}
