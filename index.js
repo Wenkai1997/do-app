@@ -7,6 +7,7 @@ bot.on('text', (ctx) =>
   bot.telegram.sendMessage(ctx.chat.id, ctx.message.text),
 );
 
+// 2nd test
 bot
   .launch()
   .then(console.log('up n running!'))
