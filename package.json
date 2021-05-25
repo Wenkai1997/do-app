@@ -6,8 +6,12 @@
   "repository": "-",
   "author": "wk",
   "license": "-",
-  "private": null,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "private": true,
   "dependencies": {
+    "axios": "^0.21.1",
     "dotenv": "^10.0.0",
     "telegraf": "^4.3.0"
   }
